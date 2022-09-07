@@ -119,3 +119,41 @@ figure figcaption{
     margin-left:70%;
     font-weight: bold;
 }
+
+.end {
+    height: 30vh;
+    padding:100px 200px;
+    padding-bottom:60px;
+}
+
+.modal {
+    background-color: rgb(16, 166, 230);
+    padding:30px;
+    border-radius: 10px;
+    color:#f5fafaf8;
+    display:flex;
+}
+
+.modal button{
+    height:30px;
+    padding:0px 25px;
+    border:white 2px solid;
+    background-color: rgb(16, 166, 230);
+    border-radius:5px;
+    color:white;
+    margin-top:25px;
+    margin-left:auto;
+}
+
+.title {
+    font-size:20px;
+    font-weight:bold;
+    color:#d8e3f9
+}
+
+footer {
+    text-align:center;
+    background:#1F2937;
+    color:#E5E7Eb;
+    padding:30px;
+}
